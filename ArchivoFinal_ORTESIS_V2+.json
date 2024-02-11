@@ -1,0 +1,29 @@
+{
+    "parameterSets": {
+        "2": {
+            "FingerHeight": "13.5",
+            "FingerLength": "23.5",
+            "FingerTip": "12",
+            "FingerWidth": "15.5",
+            "Thikness": "2",
+            "forearm_length": "83",
+            "forearm_width": "50",
+            "hand_length": "77",
+            "mano": "derecha",
+            "pieza": "1"
+        },
+        "design default values": {
+            "FingerHeight": "13.5",
+            "FingerLength": "23.5",
+            "FingerTip": "12",
+            "FingerWidth": "15.5",
+            "Thikness": "2",
+            "forearm_length": "83",
+            "forearm_width": "50",
+            "hand_length": "77",
+            "mano": "derecha",
+            "pieza": "6"
+        }
+    },
+    "fileFormatVersion": "1"
+}
